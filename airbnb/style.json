@@ -1,7 +1,7 @@
 {
     "type": "circle",
     "paint": {
-        "circle-radius": 4,
+        "circle-radius": 40,
         "circle-stroke-width": 2,
         "circle-color": "white",
         "circle-opacity": 0,
